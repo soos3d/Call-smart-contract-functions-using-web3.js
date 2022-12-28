@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "web3": "^1.8.1"
+  },
+  "name": "call-smart-contract-functions-using-web3",
+  "description": "This simple project shows you how to interact with a smart contract using the JavaScript library web3.js.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3.js",
+    "smart",
+    "contract",
+    "web3",
+    "blockchain",
+    "chainstack"
+  ],
+  "author": "Davide Zambiasi",
+  "license": "MIT"
+}
